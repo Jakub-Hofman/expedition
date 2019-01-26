@@ -11,7 +11,7 @@ _Tento dokument je vytvořen na základě Expedition App v1.21.0. Na aktuální 
 Ke hře potřebujete kopii karet Expedice. Můžete:
 
 - Zakoupit kopii v obchodě Expedice ([ExpeditionGame.com/store](http://ExpeditionGame.com/store)) nebo Amazon.
-- Nebo, si můžete stáhnout a vytisknout svoje vlastní karty na [ExpeditionGame.com/print-and-play](http://ExpeditionGame.com/print-and-play). Pokud zvolíte tisk, budete také potřeboat alespoň jednu d20 kostku a několik sponek pro sledování postupu (například kancelářské sponky nebo kolíčky).
+- Nebo, si můžete stáhnout a vytisknout svoje vlastní karty na [ExpeditionGame.com/print-and-play](http://ExpeditionGame.com/print-and-play). Pokud zvolíte tisk, budete také potřeboat alespoň kostku 1k20 (20ti stěnná kostka) a několik sponek pro sledování postupu (například kancelářské sponky nebo kolíčky).
 
 Také budete chtít kopii těchto pravidel pro referenci při hraní.
 
@@ -45,7 +45,7 @@ _Pokud hrajete s rozšířením The Horror_: Lízněte si navíc i kartu Vlivu a
 
 ### Drobnosti
 
-**Lízni** si kartu Pomocník. Umísti do středu d20 kostku. Pokud jsou kostky navíc, můžeš dát každému hráči jednu.
+**Lízni** si kartu Pomocník. Umísti do středu 1k20 kostku. Pokud jsou kostky navíc, můžeš dát každému hráči jednu.
 
 ## Dobrodružství
 
@@ -101,7 +101,7 @@ Pokud hrajete bez časomíry:
 
 #### Očista
 
-Očista nastane každé 4. kolo (každé 3. kolo pokud chcete hrát "težkou" obtížnost). Pokud nechcete, aby byly předvídatelné, můžete hodit d20 kostkou a provést očistu pokud je hod 5 nebo méně - ale to způsobí méně vyváženou hru.
+Očista nastane každé 4. kolo (každé 3. kolo pokud chcete hrát "težkou" obtížnost). Pokud nechcete, aby byly předvídatelné, můžete hodit 1k20 a provést očistu pokud je hod 5 nebo méně - ale to způsobí méně vyváženou hru.
 
 Během očisty, následujte instrukce na zbývajících kartách nepřátel. Některé očisty nemrtvých platí i poté, co byly vyřazeny ze hry.
 
@@ -123,7 +123,7 @@ Odhoď použité dovednosti. Zbytek zamíchej zpět do dobíracího balíčku.
 
 #### Počítání poškození
 
-Poté, co zahrajete svoje dovednosti, udělí nepřátelé vaší skupině zranění. Všichni dobrodruzi dostanou stejné zranění na základě hodu d20 a následující tabulky.
+Poté, co zahrajete svoje dovednosti, udělí nepřátelé vaší skupině zranění. Všichni dobrodruzi dostanou stejné zranění na základě hodu 1k20 a následující tabulky.
 
 Pokud chcete jednoduší souboj, použijte tabulku pro o jednoho hráče míň. Pokud chcete souboj obtížnejší, použijte tabulku pro o jednoho hráče víc.
 
